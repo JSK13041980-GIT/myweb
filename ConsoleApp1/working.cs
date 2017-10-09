@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class working
+    public class working
     {
+        public working()
+        {
+
+        }
+
     }
 }
