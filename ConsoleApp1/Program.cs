@@ -10,7 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.Write("testing Application new changes ");
+            working _obj = new working(10);
+
+            string strvalue= _obj.Display("Working");
+
+            Console.Write("testing Application new changes " + strvalue);
         }
     }
 }

@@ -15,9 +15,12 @@ namespace ConsoleApp1
 
         public working(int a)
         {
-            
+
         }
-        
+        public string Display(string a)
+        {
+            return a;
+        }
         public working(int a,int b)
         {
             
