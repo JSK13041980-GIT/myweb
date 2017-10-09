@@ -17,6 +17,11 @@ namespace ConsoleApp1
         {
             
         }
+        
+        public working(int a,int b)
+        {
+            
+        }
 
     }
 }
